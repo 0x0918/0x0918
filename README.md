@@ -14,15 +14,3 @@
 | <a href="https://github.com/0x0918/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=0x0918&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/0x0918/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x0918&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 
-#### Top Repositories
-
-
-<a href="https://github.com/0x0918/0x0918">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0x0918&repo=0x0918&theme=buefy" />
-</a>
-<a href="https://github.com/0x0918/0x0918.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0x0918&repo=0x0918.github.io&theme=buefy" />
-</a>
-
-<br />
-<br />
