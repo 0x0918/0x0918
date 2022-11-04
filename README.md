@@ -5,7 +5,7 @@
 
 - 💼 Smart Contract Audit Engineer at [SharkTeam](https://www.sharkteam.org/)
 
-- 📫 How to reach me **1164885546@qq.com**
+- 📫 How to reach me **yiyunbest@gmail.com**
 
 - ❤️ I am interested in blockchain.I am now teaching myself smart contracts.
 
