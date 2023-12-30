@@ -1,16 +1,16 @@
-### Hi there 👋
+<h1 align="center">Hi  I'm 0x0918 </h1>
 
-<!--
-**0x0918/0x0918** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  
+**About me**
 
-Here are some ideas to get you started:
+- 💼 Smart Contract Audit Engineer at <New Year, New Beginning.>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me **yiyunbest@gmail.com**
+
+- ❤️ I am interested in blockchain.`Solidity` && `Rust`.Next year I will study audit ZK!
+
+- 💬 Ask me about anything [here](https://github.com/0x0918/0x0918/issues)
+ 
+  
+| <a href="https://github.com/0x0918?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api?username=0x0918&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="0x0918's github stats" /></a> | <a href="https://github.com/0x0918?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x0918&layout=compact&theme=buefy&hide_border=true&" /></a> |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
